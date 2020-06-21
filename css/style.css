@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+}
+
+img{
+    border-radius: 10%;
+}
+
+#map{
+    height: 50vh;
+    width: 100%;
+}
+
+.basic-info{
+    margin: auto;
+}
